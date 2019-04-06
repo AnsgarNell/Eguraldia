@@ -1,0 +1,5 @@
+Eguraldia/bin/
+Eguraldia/obj/
+*.exe
+*.pdb
+*.cache
